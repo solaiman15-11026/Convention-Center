@@ -1,0 +1,26 @@
+.link-book{
+    text-decoration: none;
+    font-size: 16px;
+    background-color:#FFFFFF;
+    padding: 8px 22px;
+    border-radius: 6px;
+    
+}
+.link-bool{
+    text-decoration: none;
+    font-size: 16px;
+    background-color:#3F87F5;
+    padding: 8px 22px;
+    border-radius: 6px;
+    color: white;
+    
+}
+.chage:hover{
+    color: blue;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+}
